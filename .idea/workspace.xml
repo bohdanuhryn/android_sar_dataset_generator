@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="213e2a79-d115-4729-8690-7f9688512a24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/PackageMetricsDefaultApps - Copy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/PackageMetricsDefaultApps.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildPackageMetricsTimeSeries$logCatActivityParser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildPackageMetricsTimeSeries$logCatActivityParser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildPackageMetricsTimeSeries$logCatGarbageCollectorParser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildPackageMetricsTimeSeries$logCatGarbageCollectorParser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildUserPerceivedResponseMetricsTimeSeries$logCatActivityParser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$buildUserPerceivedResponseMetricsTimeSeries$logCatActivityParser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testLogcatActivity$parsers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testLogcatActivity$parsers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testLogcatGarbageCollector$parsers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testLogcatGarbageCollector$parsers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testTimeSeries$logCatActivityParser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram$testTimeSeries$logCatActivityParser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/TestProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/datasets/timeseries/PackageMetricsRecord$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experimental_framework_utils/com/bohdanuhryn/sar/datasets/timeseries/PackageMetricsRecord$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bohdanuhryn/sar/TestProgram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bohdanuhryn/sar/TestProgram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bohdanuhryn/sar/datasets/timeseries/PackageMetricsRecord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bohdanuhryn/sar/datasets/timeseries/PackageMetricsRecord.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YvnwSrDw6EtgjzxfUfLgQbUo2D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\core\datasets" />
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\core\parsers" />
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\parsers\base" />
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\logcat\converters" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.bohdanuhryn.sar.datasets.timeseries.intermediates" />
+      <recent name="com.bohdanuhryn.sar.datasets.logs.logcat.converters" />
+      <recent name="com.bohdanuhryn.sar.datasets.logs.logcat.models" />
+      <recent name="com.bohdanuhryn.sar.datasets.timeseries" />
+      <recent name="com.bohdanuhryn.sar.datasets.logs.dumpsys.converters" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.bohdanuhryn.sar.core.datasets" />
+      <recent name="com.bohdanuhryn.sar.core.parsers" />
+      <recent name="com.bohdanuhryn.sar.parsers.base" />
+      <recent name="com.bohdanuhryn.sar.logcat.converters" />
+      <recent name="com.bohdanuhryn.sar.dataset.logcat" />
+    </key>
+    <key name="KotlinExtractInterfaceDialog.RECENT_KEYS">
+      <recent name="com.bohdanuhryn.sar.parsers.dumpsys.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\datasets\timeseries\intermediates" />
+      <recent name="D:\work\projects\_BohdanUhrynovskyi\PhD\experimental_framework_utils\src\com\bohdanuhryn\sar\parsers\dumpsys\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.main">
+    <configuration name="com.bohdanuhryn.sar.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="experimental_framework_utils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bohdanuhryn.sar.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="experimental_framework_utils" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bohdanuhryn.sar.MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.main" />
+      <item itemvalue="Kotlin.com.bohdanuhryn.sar.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.bohdanuhryn.sar.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="213e2a79-d115-4729-8690-7f9688512a24" name="Default Changelist" comment="" />
+      <created>1583832173163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583832173163</updated>
+      <workItem from="1584624056686" duration="8680000" />
+      <workItem from="1586368494236" duration="12060000" />
+      <workItem from="1587662232357" duration="32045000" />
+      <workItem from="1588806146537" duration="625000" />
+      <workItem from="1588893084268" duration="604000" />
+      <workItem from="1589539488369" duration="8895000" />
+      <workItem from="1613986453052" duration="87000" />
+      <workItem from="1617493201105" duration="53847000" />
+      <workItem from="1618673164364" duration="11519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618332864033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1618332864033" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1618329642929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1618329642929" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1619795290902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619795290902" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1619795290899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619795290899" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1619795290897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619795290897" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1619795290900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619795290900" />
+    <state x="463" y="10" width="609" height="804" key="find.popup" timestamp="1618341232263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="10" width="609" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1618341232263" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1618095191246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1618095191246" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1618337748760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618337748760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/bohdanuhryn/sar/core/parsers/SingleLineLogsParser.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
