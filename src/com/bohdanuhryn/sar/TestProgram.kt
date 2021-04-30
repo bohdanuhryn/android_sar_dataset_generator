@@ -16,6 +16,8 @@ import com.bohdanuhryn.sar.datasets.logs.logcat.converters.LCActivityRecordConve
 import com.bohdanuhryn.sar.datasets.logs.logcat.converters.LCGarbageCollectorRecordConverter
 import com.bohdanuhryn.sar.datasets.logs.logcat.models.LCActivityRecord
 import com.bohdanuhryn.sar.datasets.logs.logcat.models.LCGarbageCollectorRecord
+import com.bohdanuhryn.sar.datasets.logs.proc.converters.ProcTaskRecordConverter
+import com.bohdanuhryn.sar.datasets.logs.proc.models.ProcTaskRecord
 import com.bohdanuhryn.sar.datasets.timeseries.PackageMetricsRecord
 import com.bohdanuhryn.sar.datasets.timeseries.UserPerceivedResponseMetricsRecord
 import com.bohdanuhryn.sar.datasets.timeseries.intermediates.*
@@ -26,9 +28,12 @@ class TestProgram {
 
     fun run() {
         //buildPackageMetricsTimeSeriesNativeApps()
-        buildPackageMetricsTimeSeriesDefaultApps()
+
+        //buildPackageMetricsTimeSeriesDefaultApps()
+
         //buildUserPerceivedResponseMetricsTimeSeries()
 
+        testProcTasks()
         //testLogcatGarbageCollector()
         //testTimeSeries()
         //testSparseRecord()
@@ -360,6 +365,21 @@ class TestProgram {
         records.forEach(::println)
 
         val csvWriter = CsvWriter(outputCsvPath, records.filterIsInstance<MemInfoProcRecord>().toList())
+        csvWriter.write()
+    }
+
+    private fun testProcTasks() {
+        val testPath = "./data/proctasks.txt"
+        val outputCsvPath = "./data/output/proctasks.csv"
+
+        val parsers: List<SingleLineRecordConverterBuilder<*>> = listOf(
+            { line: String -> ProcTaskRecordConverter(line) }
+        )
+        val parser = SingleLineLogsParser(testPath, parsers)
+        val records = parser.parse()
+        records.forEach(::println)
+
+        val csvWriter = CsvWriter(outputCsvPath, records.filterIsInstance<ProcTaskRecord>().toList())
         csvWriter.write()
     }
 
